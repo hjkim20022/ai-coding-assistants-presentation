@@ -21,7 +21,7 @@ AI coding assistants are changing how programmers work. They can support learnin
 - YouTube video link will be added later
 
 ## YouTube Video Link
-To be added after recording.
+(https://youtu.be/mBNwc5zA4VE)
 
 ## Final Question
 Do you think AI coding assistants like GitHub Copilot help developers become more productive, or do they make developers depend too much on AI? Why?
